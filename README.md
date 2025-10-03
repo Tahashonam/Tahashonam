@@ -1,5 +1,5 @@
-# 💫 About Me: <h2>👋 Hi ! I'm Ali Palvane</h2>
-<div style="display:flex; gap:5px; flex-wrap:wrap;"><p>🔭 I’m currently working on Espandar Co<br>🌱 I’m currently learning SQLite<br>💬 Ask me about React and Front-end Tech<br>⚡️ Fun fact I have INTJ personality <br></p></div>
+# 💫 About Me: <h2>👋 Hi ! I'm Mohammad Taha Mohaddessi</h2>
+<div style="display:flex; gap:5px; flex-wrap:wrap;"><p>🔭 I’m currently working on Espandar Co<br>🌱 I’m currently learning HTML & Python<br>💬 Ask me about Lua & Python<br>⚡️ Fun fact I have INTJ personality <br></p></div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alipalvane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alipalvane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alipalvane) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/alipalvane) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alipalvane) 

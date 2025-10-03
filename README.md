@@ -2,10 +2,10 @@
 <h2>👋 Hi ! I'm Mohammad Taha Mohaddessi</h2>
 <div style="display:flex; gap:5px; flex-wrap:wrap;">
   <p>
-    🔭 I’m currently working on Espandar Co<br>
+    🔭 I’m currently just study Co<br>
     🌱 I’m currently learning HTML & Python<br>
-    💬 Ask me about Lua & Python<br>
-    ⚡️ Fun fact: I have INTJ personality<br>
+    💬 Ask me about Lua & Python & XML & Ms SQL<br>
+    ⚡️ Fun fact: ---<br>
   </p>
 </div>
 
@@ -17,8 +17,8 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%230075a8.svg?style=flat&logo=lua&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=flat&logo=xml&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)

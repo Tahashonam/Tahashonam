@@ -3,7 +3,7 @@
 <div style="display:flex; gap:5px; flex-wrap:wrap;">
   <p>
     🔭 I’m currently just study Co<br>
-    🌱 I’m currently learning HTML & Python<br>
+    🌱 I’m currently learning Cybersecurity & Python<br>
     💬 Ask me about Lua & Python<br>
     ⚡️ Fun fact: print("I Don't Like To Study More About Any Computer Language")<br>
   </p>
